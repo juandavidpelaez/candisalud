@@ -37,6 +37,12 @@
         app:layout_constraintTop_toBottomOf="@id/tvDireccion"
         app:layout_constraintStart_toStartOf="parent" />
 
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/colorPrimary"
+        app:layout_constraintTop_toBottomOf="@id/tvTelefono"/>
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

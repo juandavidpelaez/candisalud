@@ -22,7 +22,8 @@
                 android:text="Entidad"
                 android:gravity="center"
                 android:textColor="#fff"
-                android:textSize="30sp"/>
+                android:textSize="30sp"
+                android:id="@+id/mAppbarlabel"/>
 
             <ImageButton
                 android:layout_width="?attr/actionBarSize"
